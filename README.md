@@ -2,8 +2,13 @@
 medical diagnosis project using swi prolog
 # Medical Diagnosis Expert System
 
+---
+
 ## Overview
-This project is a **Medical Diagnosis Expert System** implemented in Prolog. It helps users identify possible diseases based on symptoms they input. The system currently supports common illnesses such as flu, cold, COVID-19, and migraine.
+This project is a **Medical Diagnosis Expert System** implemented in Prolog. It helps users identify possible diseases based on symptoms they input. The system currently supports common 
+illnesses such as flu, cold, COVID-19, and migraine.
+
+---
 
 ## Features
 - Interactive symptom-based diagnosis.
@@ -11,9 +16,13 @@ This project is a **Medical Diagnosis Expert System** implemented in Prolog. It 
 - Easy-to-use command-line interface.
 - Dynamic handling of user input using Prolog’s `assert` and `retract` predicates.
 
+---
+
 ## Technologies/Tools Used
 - **Prolog** (SWI-Prolog recommended)
 - Command-line interface for interaction
+
+---
 
 ## Steps to Install & Run the Project
 1. Install [SWI-Prolog](https://www.swi-prolog.org/Download.html) if not already installed.
@@ -22,5 +31,31 @@ This project is a **Medical Diagnosis Expert System** implemented in Prolog. It 
 4. Run SWI-Prolog:
    ```bash
    swipl
+
+---
+
 ## Screenshots
 <img width="1919" height="1022" alt="Screenshot 2025-11-23 231318" src="https://github.com/user-attachments/assets/514e5744-9a15-442a-a4dc-90e4a7f7fe90" />
+
+## Limitations
+1. Limited to a small number of diseases
+2. Accuracy depends on predefined rules
+3. Cannot replace professional medical diagnosis
+4. Requires correct user input
+
+---
+
+## Future Enhancements
+1. Add more diseases and symptoms
+2. Develop a graphical user interface (GUI)
+3. Integrate with databases
+4. Improve accuracy using machine learning
+5. Add multilingual support
+
+---
+
+## References
+SWI-Prolog Official Website
+Artificial Intelligence textbooks
+Online tutorials on Prolog
+Basic medical symptom references
