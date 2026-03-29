@@ -56,6 +56,9 @@ illnesses such as flu, cold, COVID-19, and migraine.
 
 ## References
 SWI-Prolog Official Website
+
 Artificial Intelligence textbooks
+
 Online tutorials on Prolog
+
 Basic medical symptom references
